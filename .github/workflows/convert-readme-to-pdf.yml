@@ -14,11 +14,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install Pandoc
-      run: sudo apt-get install -y pandoc
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex
 
     - name: Convert README.md to PDF
-      run: pandoc README.md -o README.pdf
+      run: |
+        pandoc README.md -o README.pdf
+        ls -lh README.pdf  # Check the size of the generated PDF
 
     - name: Commit and push the PDF
       run: |
@@ -27,3 +31,5 @@ jobs:
         git add README.pdf
         git commit -m "Automated PDF conversion of README.md"
         git push origin HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
