@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Daniel Rafique - Integration Specialist
+# 👨🏾‍💻 Daniel Rafique - Blockchain & Web3 Developer
 - 👀 **Interested in:** Blockchain web3 development
 - 🌱 **Currently building:** Automated Market Maker for Solana
 - 💞️ **Looking to collaborate on:** Web3 projects
