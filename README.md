@@ -1,7 +1,3 @@
-Certainly! Here's a polished and formatted version of your README document:
-
----
-
 # 👨🏾‍💻 Daniel Rafique - Blockchain & Web3 Developer
 
 - **👀 Interested in:** Blockchain Web3 development
