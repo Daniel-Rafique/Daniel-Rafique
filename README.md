@@ -1,20 +1,22 @@
 # 👨🏾‍💻 Daniel Rafique - Blockchain & Web3 Developer
 
-- **👀 Interested in:** Blockchain Web3 development
-- **🌱 Currently building:** Automated Market Maker for Solana
-- **💞️ Looking to collaborate on:** Web3 projects
-- **📫 Reach me on:** [Telegram](https://t.me/KoynLabsDev)
+## 🚀 About Me
+
+I am a **Blockchain and Web3 Developer** based in London, specializing in decentralized technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated eCommerce solutions, culminating in my current focus on the blockchain space.
+
+I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
 **🎯 Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 **🌍 Location:** South West London, UK  
 **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)  
 **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON**
 
-## 🚀 About Me
+## 💼 Current Interests
 
-I am a **Blockchain and Web3 Developer** based in London, specializing in decentralized technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated eCommerce solutions, culminating in my current focus on the blockchain space.
-
-I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
+- **👀 Interested in:** Blockchain Web3 development
+- **🌱 Currently building:** Automated Market Maker for Solana
+- **💞️ Looking to collaborate on:** Web3 projects
+- **📫 Reach me on:** [Telegram](https://t.me/KoynLabsDev)
 
 ## 💼 Professional Experience
 
