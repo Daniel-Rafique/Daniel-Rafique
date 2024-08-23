@@ -33,7 +33,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 🔗 [Visit Website](https://wavetrader.org)  
 - Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
 
-### **Magento Developer - SuperPayments.com**
+### **Backend Developer - SuperPayments.com**
 *May 2022 - June 2022*  
 🔗 [Visit Website](https://superpayments.com)  
 - Optimized and refined Magento 2 extensions for Black Friday/Cyber Monday using **PHP**, **Knockout JS**, and **XML**.
