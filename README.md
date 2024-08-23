@@ -32,7 +32,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
 
 ### **Founder - WAVETRADER** *(discontinued)*
-*May 2023 - Oct 2023*  
+*Jan 2021 - May 2024*  
 🔗 [Visit Website](https://wavetrader.org)  
 - Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
 
