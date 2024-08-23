@@ -6,7 +6,7 @@
 
 🎯 **Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 🌍 **Location:** South West London, UK  
-📧 **Email:** [d.rafique@vyceversa.co.uk](mailto:koynlabs@gmail.com)  
+📧 **Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)  
 🌐 **Website:** [koynlabs.com](https://www.koynlabs.com) -- **WEBSITE COMING SOON**
 
 ## 🚀 About Me
