@@ -21,7 +21,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
 🔗 [Visit Website](https://koynlabs.com)  
-- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, and **Websockets**. The bot is accessible through Telegram.
+- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
 
 ### **Creator - ANGRY PIG Solana Memecoin**
 *May 2024 - Aug 2024*  
