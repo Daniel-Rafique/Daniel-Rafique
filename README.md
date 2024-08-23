@@ -1,8 +1,8 @@
-- # 👨🏾‍💻 Daniel Rafique - Integration Specialist
-- 👀 I’m interested in: Blockchain web3 development
-- 🌱 I’m currently building: Automated Market Maker for Solana
-- 💞️ I’m looking to collaborate on: Web3 projects
-- 📫 How to reach me: Telegram
+ # 👨🏾‍💻 Daniel Rafique - Integration Specialist
+ 👀 I’m interested in: Blockchain web3 development
+ 🌱 I’m currently building: Automated Market Maker for Solana
+ 💞️ I’m looking to collaborate on: Web3 projects
+ 📫 How to reach me: Telegram
 
 🎯 **Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 🌍 **Location:** South West London, UK  
@@ -13,7 +13,7 @@
 I am a **Fullstack Developer** with over 10 years of experience specializing in **PHP**, **JavaScript**, and frameworks like **Docker**, **Magento**, **Laravel**, **ReactJS**, and **NodeJS**. My focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
 ## 💼 Professional Experience
-## **Founder - koynlabs**
+## **Co-Founder - koynlabs**
 *July 2024 - ongoing*
 🔗 [Visit Website](https://koynlabs.com)  
 - Developed automated market making software for solana spl-tokens. The software is designed to maintain price stability and volume using technologies like **Docker**, **Javascript**, **Nginx**, **Websockets**. The bot is accessible through telegram.
