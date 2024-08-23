@@ -7,7 +7,7 @@
 🎯 **Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 🌍 **Location:** South West London, UK  
 📧 **Email:** [d.rafique@vyceversa.co.uk](mailto:koynlabs@gmail.com)  
-🌐 **Website:** [danielrafique.com](https://www.koynlabs.com) -- **WEBSITE COMING SOON**
+🌐 **Website:** [koynlabs.com](https://www.koynlabs.com) -- **WEBSITE COMING SOON**
 
 ## 🚀 About Me
 I am a **Fullstack Developer** with over 10 years of experience specializing in **PHP**, **JavaScript**, and frameworks like **Docker**, **Magento**, **Laravel**, **ReactJS**, and **NodeJS**. My focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
