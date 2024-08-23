@@ -66,9 +66,9 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 - **Magento Certified Developer**
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn](#)
-- **GitHub:** [github.com/yourprofile](#)
-- **Twitter:** [@yourhandle](#)
+- **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
+- **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
+- **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 ---
 
