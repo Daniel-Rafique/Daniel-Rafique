@@ -72,6 +72,8 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 - **Telegram:** [@KoynLabsDev](https://t.me/@KoynLabsDev)
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
+- [📄 Download the PDF version of this README](https://github.com/Daniel-Rafique/Daniel-Rafique/blob/main/README.pdf)
+
 ---
 
 *Let's build something amazing together!*
