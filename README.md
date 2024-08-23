@@ -1,4 +1,4 @@
-- # 👨‍💻 Daniel Rafique - Integration Specialist
+- # 👨🏾‍💻 Daniel Rafique - Integration Specialist
 - 👀 I’m interested in blockchain web3 development
 - 🌱 I’m currently building
 - 💞️ I’m looking to collaborate on web3 projects
@@ -68,6 +68,7 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 ## 📫 Contact Me
 - **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
 - **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
+- **Telegram** [@KoynDev]
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 ---
