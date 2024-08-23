@@ -100,7 +100,7 @@ And countless other startups, SME's and enterprise level builds that I've helped
 
 - **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
 - **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
-- **Telegram:** [@KoynLabsDev](https://t.me/@KoynLabsDev)
+- **Telegram:** [@KoynLabsDev](https://t.me/KoynLabsDev)
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 *Let's build something amazing together!*
