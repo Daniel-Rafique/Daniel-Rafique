@@ -14,15 +14,19 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install dependencies
+    - name: Set up Node.js (Resolve Deprecated Node.js Issue)
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install Pandoc and Dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y pandoc texlive-xetex
 
     - name: Convert README.md to PDF
-      run: |
-        pandoc README.md -o README.pdf
-        ls -lh README.pdf  # Check the size of the generated PDF
+      run: pandoc README.md -o README.pdf
 
     - name: Commit and push the PDF
       run: |
