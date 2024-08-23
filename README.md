@@ -1,8 +1,8 @@
  # 👨🏾‍💻 Daniel Rafique - Integration Specialist
- 👀 I’m interested in: Blockchain web3 development
- 🌱 I’m currently building: Automated Market Maker for Solana
- 💞️ I’m looking to collaborate on: Web3 projects
- 📫 How to reach me: Telegram
+- 👀 I’m interested in: Blockchain web3 development
+- 🌱 I’m currently building: Automated Market Maker for Solana
+- 💞️ I’m looking to collaborate on: Web3 projects
+- 📫 How to reach me: Telegram
 
 🎯 **Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 🌍 **Location:** South West London, UK  
