@@ -68,7 +68,7 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 ## 📫 Contact Me
 - **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
 - **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
-- **Telegram** [@KoynDev]
+- **Telegram** [@@KoynLabsDev](https://t.me/@KoynLabsDev)
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 ---
