@@ -1,43 +1,44 @@
- # 👨🏾‍💻 Daniel Rafique - Integration Specialist
-- 👀 I’m interested in: Blockchain web3 development
-- 🌱 I’m currently building: Automated Market Maker for Solana
-- 💞️ I’m looking to collaborate on: Web3 projects
-- 📫 How to reach me: Telegram
+# 👨🏾‍💻 Daniel Rafique - Integration Specialist
+- 👀 **Interested in:** Blockchain web3 development
+- 🌱 **Currently building:** Automated Market Maker for Solana
+- 💞️ **Looking to collaborate on:** Web3 projects
+- 📫 **Reach me on:** [Telegram](https://t.me/@KoynLabsDev)
 
 🎯 **Fullstack Developer** | eCommerce | Blockchain | AI/ML | Cloud Administration  
 🌍 **Location:** South West London, UK  
 📧 **Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)  
-🌐 **Website:** [koynlabs.com](https://www.koynlabs.com) -- **WEBSITE COMING SOON**
+🌐 **Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON**
 
 ## 🚀 About Me
 I am a **Fullstack Developer** with over 10 years of experience specializing in **PHP**, **JavaScript**, and frameworks like **Docker**, **Magento**, **Laravel**, **ReactJS**, and **NodeJS**. My focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
 ## 💼 Professional Experience
-## **Co-Founder - koynlabs**
-*July 2024 - ongoing*
+
+### **Co-Founder - Koynlabs**
+*July 2024 - ongoing*  
 🔗 [Visit Website](https://koynlabs.com)  
-- Developed automated market making software for solana spl-tokens. The software is designed to maintain price stability and volume using technologies like **Docker**, **Javascript**, **Nginx**, **Websockets**. The bot is accessible through telegram.
+- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, and **Websockets**. The bot is accessible through Telegram.
 
-## **Creator - ANGRY PIG Solana memecoin**
-*May 2024 - Aug 2024*
+### **Creator - ANGRY PIG Solana Memecoin**
+*May 2024 - Aug 2024*  
 🔗 [Visit Website](https://angrypig.io)  
-- Created the Angry Pig Solana memecoin and NFT collection checkout the twitter and telegram found on the website **Raydium**, **Dexscreener**, **Dextools**.
+- Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram found on the website. **Raydium**, **Dexscreener**, **Dextools**.
 
-### **Founder - WAVETRADER**  
+### **Founder - WAVETRADER** (discontinued.) 
 *May 2023 - Oct 2023*  
 🔗 [Visit Website](https://wavetrader.org)  
-- Developed an automated cryptocurrency trading service with technologies like **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
+- Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
 
-### **SuperPayments.com - Magento Developer**  
+### **Magento Developer - SuperPayments.com**
 *May 2022 - June 2022*  
 🔗 [Visit Website](https://superpayments.com)  
 - Optimized and refined Magento 2 extensions for Black Friday/Cyber Monday using **PHP**, **Knockout JS**, and **XML**.
 
-### **DMMC NFT Platform - Integration Specialist**  
+### **Integration Specialist - DMMC NFT Platform**
 *Jan 2021 - May 2021*  
 - Integrated Blockchain and NFT Metadata into Hubspot CRM using **NodeJS**, **PM2**, and **Moralis**.
 
-### **Vision Direct - Backend Developer**  
+### **Backend Developer - Vision Direct**
 *July 2020 - Sep 2020*  
 🔗 [Visit Website](https://visiondirect.co.uk)  
 - Backend Magento development, including feature development, bug fixes, and upgrades for Magento 1.
@@ -52,13 +53,13 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 ## 🎓 Education
 - **BSc in Business & Economics** - Oxford Brooks University & Open University
 
-## 🌟 Recent Projects
+## 🌟 Previous Experience
 
-### **Kurt Geiger Migration**  
+### **Kurt Geiger Migration**
 *Aug 2019 - Nov 2019*  
 - Led a successful migration from Magento 1 to Magento 2, ensuring seamless transition and improved performance.
 
-### **Pay360 Extension Rebuild**  
+### **Pay360 Extension Rebuild**
 *Jan 2019 - May 2019*  
 - Rewrote the Magento 2 extension to work with the latest version, improving functionality and performance.
 
@@ -68,7 +69,7 @@ I am a **Fullstack Developer** with over 10 years of experience specializing in 
 ## 📫 Contact Me
 - **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
 - **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
-- **Telegram** [@@KoynLabsDev](https://t.me/@KoynLabsDev)
+- **Telegram:** [@KoynLabsDev](https://t.me/@KoynLabsDev)
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 ---
