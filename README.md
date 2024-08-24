@@ -12,7 +12,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
 - **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON
 
-## 💼 Current Interests:
+## 🤓 Current Interests:
 
 - **👀 Interested in:** Blockchain Web3 development
 - **🌱 Currently building:** Automated Market Maker for Solana
