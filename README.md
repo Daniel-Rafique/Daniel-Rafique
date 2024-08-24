@@ -21,27 +21,28 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
-🔗 [Visit Website](https://koynlabs.com)  
 - Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
+🔗[koynlabs](https://koynlabs.com)  
 
 ### **Co-Creator - ANGRY PIG Solana Memecoin**
 *May 2024 - Aug 2024*  
-🔗 [Visit Website](https://angrypig.io)  
 - Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
+🔗[Visit Website](https://angrypig.io)  
 
 ### **Founder - WAVETRADER** *(discontinued)*
 *Jan 2021 - May 2024*  
-🔗 [Visit Website](https://wavetrader.org)  
 - Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
+🔗[wavtrader](https://wavetrader.org)  
 
 ### **Backend Developer - SuperPayments.com**
 *May 2022 - June 2022*  
-🔗 [Visit Website](https://superpayments.com)  
 - Optimized and refined Magento 2 extensions for Black Friday/Cyber Monday using **PHP**, **Knockout JS**, and **XML**.
+🔗[Super Payments](https://superpayments.com)  
 
 ### **Integration Specialist - DMMC NFT Platform**
 *Jan 2021 - May 2021*  
 - Integrated Blockchain and NFT Metadata into Hubspot CRM using **NodeJS**, **PM2**, and **Moralis**.
+🔗[DMMC](https://drunkenmonkeyclub.com/)
 
 ## 🛠️ Technologies & Tools
 
