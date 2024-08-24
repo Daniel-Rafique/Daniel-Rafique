@@ -57,7 +57,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 - **BSc in Business & Economics** - Oxford Brookes University & Open University
 
-## 🌟 Previous Experience **Magento**, **Laravel** ***Back in the days***
+## 🌟 Previous Experience **Magento**, **Laravel** ***(Back in the days).***
 
 ### **Backend Developer - Vision Direct**
 *January 2021 - May 2021*
