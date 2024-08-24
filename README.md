@@ -26,7 +26,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 🔗 [Visit Website](https://koynlabs.com)  
 - Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
 
-### **Creator - ANGRY PIG Solana Memecoin**
+### **Co-Creator - ANGRY PIG Solana Memecoin**
 *May 2024 - Aug 2024*  
 🔗 [Visit Website](https://angrypig.io)  
 - Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
@@ -45,11 +45,6 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 *Jan 2021 - May 2021*  
 - Integrated Blockchain and NFT Metadata into Hubspot CRM using **NodeJS**, **PM2**, and **Moralis**.
 
-### **Backend Developer - Vision Direct**
-*July 2020 - Sep 2020*  
-🔗 [Visit Website](https://visiondirect.co.uk)  
-- Backend Magento development, including feature development, bug fixes, and upgrades for Magento 1.
-
 ## 🛠️ Technologies & Tools
 
 - **Languages:** PHP, JavaScript, Java, SQL
@@ -62,13 +57,20 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 - **BSc in Business & Economics** - Oxford Brookes University & Open University
 
-## 🌟 Previous Experience **Magento**, **Laravel**
+## 🌟 Previous Experience **Magento**, **Laravel** ***Back in the days***
+
+### **Backend Developer - Vision Direct**
+*January 2021 - May 2021*
+- Backend Magento development, including feature development, bug fixes, and upgrades for Magento 1.
+- **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS, Microservices, NodeJS, REST
 
 ### **Kurt Geiger Migration**
+*Aug - Nov 2019*
 - Led a successful migration from Magento 1 to Magento 2, ensuring seamless transition and improved performance.  
 - **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS, Microservices, NodeJS, REST
 
 ### **Pay360 Extension Rebuild**
+*May - Jun 2019*
 - Rewrote the Magento 2 extension to work with the latest version, improving functionality and performance.  
 - **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS
 
