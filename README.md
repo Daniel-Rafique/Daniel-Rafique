@@ -6,9 +6,9 @@ I am a **Blockchain and Web3 Developer** based in London, specializing in decent
 
 I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
-## **🌍 Location:** South West London, UK
-## **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
-## **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON
+- **🌍 Location:** South West London, UK
+- **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
+- **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON
 
 ## 💼 Current Interests:
 
