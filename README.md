@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Daniel Rafique - Blockchain & Web3 Developer
+# 👨🏾‍💻 Blockchain & Web3 Developer
 
 ## 🚀 About Me
 
