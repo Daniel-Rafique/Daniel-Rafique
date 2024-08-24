@@ -6,20 +6,19 @@ I am a **Blockchain and Web3 Developer** based in London, specializing in decent
 
 I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
-**🎯 Fullstack Developer** | Web3 |  AI/ML| Cloud Administration | eCommerce |
-
+**🎯 Fullstack Developer** | Web3 | AI/ML| Cloud Administration | eCommerce
 **🌍 Location:** South West London, UK  
 **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)  
 **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON**
 
-## 💼 Current Interests
+## 💼 Current Interests:
 
 - **👀 Interested in:** Blockchain Web3 development
 - **🌱 Currently building:** Automated Market Maker for Solana
 - **💞️ Looking to collaborate on:** Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynLabsDev)
 
-## 💼 Professional Experience
+## 💼 Professional Experience:
 
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
