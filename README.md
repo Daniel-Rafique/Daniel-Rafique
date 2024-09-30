@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Blockchain & Web3 Developer
+# 👨🏾‍💻 eCommerce & Web3 Developer
 
 ## 🚀 About Me
 
