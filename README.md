@@ -10,7 +10,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 - **🌍 Location:** South West London, UK
 - **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
-- **🌐 X:** [koynlabs.com](https://x.com/koynlabs)
+- **🌐 X:** [X](https://x.com/koynlabs)
 
 ## 🤓 Current Interests:
 
