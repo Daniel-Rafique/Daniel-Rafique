@@ -14,7 +14,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 ## 🤓 Current Interests:
 
-- **👀 Interested in:** Blockchain Web3 development andAI
+- **👀 Interested in:** Blockchain Web3 development and AI agent devwlopment
 - **🌱 Currently building:** Automated Market Maker for Solana
 - **💞️ Looking to collaborate on:** Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
