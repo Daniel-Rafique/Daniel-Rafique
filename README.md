@@ -10,21 +10,26 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 - **🌍 Location:** South West London, UK
 - **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
-- **🌐 Website:** [koynlabs.com](https://www.koynlabs.com) - **COMING SOON
+- **🌐 X:** [koynlabs.com](https://x.com/koynlabs)
 
 ## 🤓 Current Interests:
 
-- **👀 Interested in:** Blockchain Web3 development
+- **👀 Interested in:** Blockchain Web3 development andAI
 - **🌱 Currently building:** Automated Market Maker for Solana
 - **💞️ Looking to collaborate on:** Web3 projects
-- **📫 Reach me on:** [Telegram](https://t.me/KoynLabsDev)
+- **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
 
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
 - Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
-- 🔗[koynlabs](https://koynlabs.com)  
+- 🔗[koynlabs](https://x.com/koynlabs)
+
+### ** Dipeed Solana memecoin**
+*May 2025*  
+- Created the Dipped Solana memecoin and AI Agent. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
+- 🔗[Dipped](https://dipped.me) 
 
 ### **Co-Creator - ANGRY PIG Solana Memecoin**
 *May 2024 - Aug 2024*  
