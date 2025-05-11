@@ -26,7 +26,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
 - 🔗[Market maker volume Bot](https://x.com/koynlabs_bot)
 
-### ** Dipeed Solana memecoin**
+### ** Dipped Solana memecoin**
 *May 2025*  
 - Created the Dipped Solana memecoin and AI Agent. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
 - 🔗[Dipped](https://dipped.me) 
@@ -112,7 +112,7 @@ And countless other startups, SME's and enterprise level builds that I've helped
 
 - **LinkedIn:** [Daniel Rafique](https://www.linkedin.com/in/danielrafique/)
 - **GitHub:** [github.com/Daniel-Rafique](https://github.com/Daniel-Rafique/)
-- **Telegram:** [@KoynLabsDev](https://t.me/KoynLabsDev)
+- **Telegram:** [@KoynDev](https://t.me/KoynDev)
 - **Twitter:** [@koynlabs](https://twitter.com/koynlabs)
 
 *Let's build something amazing together!*
