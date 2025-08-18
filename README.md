@@ -29,6 +29,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 ### **Bitchat Community Token**
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
+- Developer for Bitchat Community messenger a for fork of Bitchat Mesh
 - 🔗[Bitchat Community](https://bitchat.commuity) 
 
 ### **Dipped Solana memecoin**
