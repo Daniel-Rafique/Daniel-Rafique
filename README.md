@@ -24,7 +24,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
 - Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
-- 🔗[Market maker volume Bot](https://x.com/koynlabs_bot)
+- 🔗[Market maker volume Bot](https://t.me/koynlabs_bot)
 
 ### **Bitchat Community Token**
 *July 2025*  
