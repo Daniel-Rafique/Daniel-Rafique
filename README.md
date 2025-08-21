@@ -33,7 +33,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - 🔗[Bitchat Community](https://bitchat.community)
 
 ### KOYN FINANCE
-- June 2025 - ongoing*
+*June 2025 - ongoing*
 - Professional financial analysis with sentiment tracking, price predictions, and market insights for cryptocurrencies, stocks, forex, and commodities.
 - 🔗[koyn.finance](https://koyn.finance) 
 
