@@ -30,7 +30,12 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
 - Developer for Bitchat Community messenger a fork of Bitchat Mesh
-- 🔗[Bitchat Community](https://bitchat.community) 
+- 🔗[Bitchat Community](https://bitchat.community)
+
+### KOYN FINANCE
+- June 2025 - ongoing*
+- Professional financial analysis with sentiment tracking, price predictions, and market insights for cryptocurrencies, stocks, forex, and commodities.
+- 🔗[koyn.finance](https://koyn.finance) 
 
 ### **Dipped Solana memecoin**
 *May 2025*  
