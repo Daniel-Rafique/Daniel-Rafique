@@ -21,11 +21,6 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 ## 💼 Professional Experience:
 
-### **Co-Founder - Koynlabs**
-*July 2024 - ongoing*  
-- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
-- 🔗[Market maker volume Bot](https://t.me/koynlabs_bot)
-
 ### **Bitchat Community Token**
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
@@ -40,7 +35,12 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 ### **Dipped Solana memecoin**
 *May 2025*  
 - Created the Dipped Solana memecoin and AI Agent. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
-- 🔗[Dipped](https://dipped.me) 
+- 🔗[Dipped](https://dipped.me)
+
+### **Co-Founder - Koynlabs**
+*July 2024 - ongoing*  
+- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
+- 🔗[Market maker volume Bot](https://t.me/koynlabs_bot)
 
 ### **Co-Creator - ANGRY PIG Solana Memecoin**
 *May 2024 - Aug 2024*  
