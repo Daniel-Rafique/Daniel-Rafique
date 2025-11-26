@@ -22,6 +22,12 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 ## 💼 Professional Experience:
 
 ### **Bitchat Community Token**
+*October 2025*  
+- Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website. **React**, **Gemini**.
+- Rebuilt using React and Gemini 3
+- 🔗[Artify Photo](https://artify.photo)
+
+### **Bitchat Community Token**
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
 - Developer for Bitchat Community messenger a fork of Bitchat Mesh
