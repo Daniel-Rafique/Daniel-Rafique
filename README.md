@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am a **Blockchain and Web3 Developer** based in London, specializing in decentralized technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated eCommerce solutions, culminating in my current focus on the blockchain space.
+I am a **Software Developer** based in London, specializing in AI technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated software solutions, culminating in my current focus on the AI, Web3 and ecommerce space.
 
-I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
+I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
 
 ## 📍 Contact Information:
 
@@ -14,15 +14,15 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 ## 🤓 Current Interests:
 
-- **👀 Interested in:** Blockchain Web3 development and AI agent development
-- **🌱 Currently building:** Automated Market Maker for Solana
-- **💞️ Looking to collaborate on:** Web3 projects
+- **👀 Interested in:** AI agent development, Blockchain Web3 development and ecommerce solutions
+- **🌱 Currently building:** ARTIFY PHOTO
+- **💞️ Looking to collaborate on:** AI projects & Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
 
 ### **ARTIFY**
-*October 2025*  
+*October 2025 - present*  
 - Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website. **React**, **Gemini**.
 - Rebuilt using React and Gemini for Shopify
 - Artify pays artists each time their style is used to re-imagine customer photos
@@ -33,6 +33,15 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - Customers can mint a FREE NFT as proof of ownership
 - 🔗[Artify Photo](https://artify.photo)
 
+### **KOYNFX**
+*August - September 2025*  
+- Fully Agentic trading workspace for modern traders.
+- Built using REACT frontend and Python API
+- KOYNFX seamlessesly integrates with TradeLocker API 
+- Provides realtime in-depth market analysis for over 100 tradeable instruments including: Stocks, Crypto, Commodities and Indicies
+- Trade automonmouly and allow the Agent to manager your account
+- 🔗[KOYN FX](https://koynfx.com)
+
 ### **Bitchat Community Token**
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
@@ -40,14 +49,14 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - 🔗[Bitchat Community](https://bitchat.community)
 
 ### KOYN FINANCE
-*June 2025 - ongoing*
+*June 2025 - deprecated (See koynfx.com)*
 - Professional financial analysis with sentiment tracking, price predictions, and market insights for cryptocurrencies, stocks, forex, and commodities.
-- 🔗[koyn.finance](https://koyn.finance) 
+- 🔗[koyn.finance](https://koynfx.com) 
 
-### **Dipped Solana memecoin**
+### **Degen Eagle Solana memecoin**
 *May 2025*  
-- Created the Dipped Solana memecoin and AI Agent. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
-- 🔗[Dipped](https://dipped.me)
+- Created the Degen Eagle Solana memecoin and AI Agent based on Politcal Satire. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
+- 🔗[Dipped](https://degeneagle.me)
 
 ### **Co-Founder - Koynlabs**
 *July 2024 - ongoing*  
@@ -59,7 +68,7 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 - Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
 - 🔗[Angry Pig](https://angrypig.io)  
 
-### **Founder - WAVETRADER** *(discontinued)*
+### **Founder - WAVETRADER** *(deprecated)*
 *Jan 2021 - May 2024*  
 - Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
 - 🔗[wavtrader](https://wavetrader.org)  
