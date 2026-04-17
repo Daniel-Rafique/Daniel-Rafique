@@ -39,7 +39,7 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 - Built using REACT frontend and Python API
 - KOYNFX seamlessesly integrates with TradeLocker API 
 - Provides realtime in-depth market analysis for over 100 tradeable instruments including: Stocks, Crypto, Commodities and Indicies
-- Trade automonmouly and allow the Agent to manager your account
+- Trade automonmouly and allow the Agent to manage your account
 - 🔗[KOYN FX](https://koynfx.com)
 
 ### **Bitchat Community Token**
