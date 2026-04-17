@@ -21,10 +21,16 @@ I'm experinced in **PHP**, **JavaScript**, and frameworks such as: **Docker**, *
 
 ## 💼 Professional Experience:
 
-### **Bitchat Community Token**
+### **ARTIFY**
 *October 2025*  
 - Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website. **React**, **Gemini**.
-- Rebuilt using React and Gemini 3
+- Rebuilt using React and Gemini for Shopify
+- Artify pays artists each time their style is used to re-imagine customer photos
+- Customers can then choose a frame and print
+- The app includes 3D augmented reality for a imersive shopping experience
+- Payouts are distributed via Stripe or Shopify Collective
+- Worldwide fulfillment
+- Customers can mint a FREE NFT as proof of ownership
 - 🔗[Artify Photo](https://artify.photo)
 
 ### **Bitchat Community Token**
