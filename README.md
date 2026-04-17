@@ -1,4 +1,4 @@
-# 👨🏾‍💻 eCommerce & Web3 Developer
+# 👨🏾‍💻 Software Developer & Architect
 
 ## 🚀 About Me
 
