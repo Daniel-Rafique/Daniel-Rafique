@@ -23,8 +23,8 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ### **ARTIFY**
 *October 2025 - present*  
-- Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website. **React**, **Gemini**.
-- Rebuilt using React and Gemini for Shopify
+- Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website.
+- Rebuilt Shopify
 - Artify pays artists each time their style is used to re-imagine customer photos
 - Customers can then choose a frame and print
 - The app includes 3D augmented reality for a imersive shopping experience
@@ -35,7 +35,7 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ### **KOYNFX**
 *August - September 2025*  
-- Fully Agentic trading workspace for modern traders.
+- Fully Agentic trading workspace for modern traders
 - Built using REACT frontend and Python API
 - KOYNFX seamlessesly integrates with TradeLocker API 
 - Provides realtime in-depth market analysis for over 100 tradeable instruments including: Stocks, Crypto, Commodities and Indicies
@@ -44,7 +44,7 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ### **Bitchat Community Token**
 *July 2025*  
-- Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
+- Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website
 - Developer for Bitchat Community messenger a fork of Bitchat Mesh
 - 🔗[Bitchat Community](https://bitchat.community)
 
