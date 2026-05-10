@@ -21,6 +21,21 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ## 💼 Professional Experience:
 
+### **PLOTT**
+*Aprol 2026 - present*  
+- A multi-tenant SaaS for UK construction firms. Turns open planning applications into signed contracts via a 3D map, applicant enrichment, branded letter generation and saved-search email digests.
+- Next.js 16 (App Router, React 19, Server Components)
+- Prisma 6 + Neon Postgres
+- Neon Auth (session cookies + hosted UI)
+- Stripe (three-tier subscription + billing portal + webhooks)
+- Vercel Blob (logos, uploaded signatures, generated PDFs)
+- Google Maps Platform (photorealistic 3D tiles, Street View fallback)
+- Resend + React Email for transactional mail
+- Upstash Redis for rate limiting
+- Vercel AI SDK + AI Gateway (multi-provider LLM routing)
+- Vitest + Playwright for tests
+- 🔗[PLOTT](https://plott.uk)
+
 ### **ARTIFY**
 *October 2025 - present*  
 - Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website.
