@@ -36,7 +36,7 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 - Vitest + Playwright for tests
 - 🔗[PLOTT](https://plott.uk)
 
-### **ARTIFY**
+### **ARTIFY (Shopify App)**
 *October 2025 - present*  
 - Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website.
 - Rebuilt Shopify
@@ -47,6 +47,7 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 - Worldwide fulfillment
 - Customers can mint a FREE NFT as proof of ownership
 - 🔗[Artify Photo](https://artify.photo)
+- 🔗[Artify App](https://apps.shopify.com/artify-1)
 
 ### **KOYNFX**
 *August - September 2025*  
@@ -61,32 +62,8 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 *July 2025*  
 - Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website
 - Developer for Bitchat Community messenger a fork of Bitchat Mesh
+- Dev for the $BITCHAT Commeunity Solana memecoin
 - 🔗[Bitchat Community](https://bitchat.community)
-
-### KOYN FINANCE
-*June 2025 - deprecated (See koynfx.com)*
-- Professional financial analysis with sentiment tracking, price predictions, and market insights for cryptocurrencies, stocks, forex, and commodities.
-- 🔗[koyn.finance](https://koynfx.com) 
-
-### **Degen Eagle Solana memecoin**
-*May 2025*  
-- Created the Degen Eagle Solana memecoin and AI Agent based on Politcal Satire. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
-- 🔗[Dipped](https://degeneagle.me)
-
-### **Co-Founder - Koynlabs**
-*July 2024 - ongoing*  
-- Developed automated market making software for Solana SPL-tokens using **Docker**, **JavaScript**, **Nginx**, **RPC**, **gRPC** and **Websockets**. The bot is accessible through Telegram.
-- 🔗[Market maker volume Bot](https://t.me/koynlabs_bot)
-
-### **Co-Creator - ANGRY PIG Solana Memecoin**
-*May 2024 - Aug 2024*  
-- Created the Angry Pig Solana memecoin and NFT collection. Check out the Twitter and Telegram links on the website. **Raydium**, **Dexscreener**, **Dextools**.
-- 🔗[Angry Pig](https://angrypig.io)  
-
-### **Founder - WAVETRADER** *(deprecated)*
-*Jan 2021 - May 2024*  
-- Developed an automated cryptocurrency trading service with **Java 8**, **NodeJS**, **MongoDB**, and **ReactJS**.
-- 🔗[wavtrader](https://wavetrader.org)  
 
 ### **Backend Developer - SuperPayments.com**
 *May 2022 - June 2022*  
