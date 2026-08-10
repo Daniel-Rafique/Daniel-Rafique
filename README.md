@@ -58,13 +58,6 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 - Trade automonmouly and allow the Agent to manage your account
 - 🔗[KOYN FX](https://koynfx.com)
 
-### **Bitchat Community Token**
-*July 2025*  
-- Moderator for Bitchat community token. Designed and developed Bitchat community website. Check out the X and Telegram links on the website
-- Developer for Bitchat Community messenger a fork of Bitchat Mesh
-- Dev for the $BITCHAT Commeunity Solana memecoin
-- 🔗[Bitchat Community](https://bitchat.community)
-
 ### **Backend Developer - SuperPayments.com**
 *May 2022 - June 2022*  
 - Optimized and refined Magento 2 extensions for Black Friday/Cyber Monday using **PHP**, **Knockout JS**, and **XML**.
