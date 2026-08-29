@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **Software Developer** based in London, specializing in AI technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated software solutions, culminating in my current focus on the AI, Web3 and ecommerce space.
+I am a **Software Developer** and **published author** based in London, specializing in AI technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated software solutions, culminating in my current focus on the AI, Web3 and ecommerce space. I authored and published **Blackbook Protocol**, a UK founder asset-architecture book (hardback, Kindle, audio, eBook and templates).
 
 I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and frameworks such as: **Docker**, **Web3JS**, **React**, **Next.js**, **Remix / React Router**, and **Node.js**. My current focus areas include **Shopify apps**, **API integrations**, **MCP / AI agents**, **Blockchain**, and **AI/ML**.
 
@@ -15,19 +15,21 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 ## 🤓 Current Interests:
 
 - **👀 Interested in:** AI agent development, Shopify / ecommerce, Blockchain Web3, and MCP tooling
-- **🌱 Currently building:** ARTIFY, PRICEY, PLOTT, and Blackbook Protocol
+- **🌱 Currently building:** ARTIFY, PRICEY, PLOTT, and Blackbook Protocol (author / publisher)
 - **💞️ Looking to collaborate on:** AI projects, Shopify apps & Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
 
-### **Blackbook Protocol**
+### **Blackbook Protocol (Author & Publisher)**
 *July 2026 - present*  
-- Shopify storefront plus purchaser-gated Protocol Advisor MCP for UK founders (Vault / trust, HMRC TRS, 95/5 equity, Companies House PSC).
-- Buyers connect Claude, ChatGPT, or Cursor after verifying a book order (Shopify Admin + email OTP).
+- Authored and published **Blackbook Protocol**, a UK educational blueprint for founder asset architecture: Engine & Vault, 95/5 ownership, HMRC TRS (Shield), and Companies House PSC.
+- Released as hardback, Kindle, audio, eBook and templates via KOYNLABS; sold on Shopify and Amazon.
+- Built the Shopify storefront plus a purchaser-gated Protocol Advisor MCP so buyers can use Claude, ChatGPT, or Cursor against the book corpus after verifying a book order (Shopify Admin + email OTP).
 - Cited book search, module playbooks, FAQ knowledge base, and optional assisted filing on official portals (confirm-on-submit; educational guidance, not legal or tax advice).
 - Horizon theme (monochrome brand system), Klaviyo campaign and flow tooling, Vercel-hosted MCP (Streamable HTTP + SSE), Neon, Resend.
 - 🔗[Blackbook Protocol](https://blackbookprotocol.co.uk)
+- 🔗[Amazon Kindle](https://amzn.eu/d/01BtIItN)
 - 🔗[Protocol MCP](https://theblackbook.pro)
 
 ### **PRICEY (Shopify App)**
