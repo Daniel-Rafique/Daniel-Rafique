@@ -4,7 +4,7 @@
 
 I am a **Software Developer** based in London, specializing in AI technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated software solutions, culminating in my current focus on the AI, Web3 and ecommerce space.
 
-I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: **Docker**, **Web3JS**, **ReactJS**, and **NodeJS**. My current focus areas include **API integrations**, **Blockchain technology**, and **AI/ML**.
+I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and frameworks such as: **Docker**, **Web3JS**, **React**, **Next.js**, **Remix / React Router**, and **Node.js**. My current focus areas include **Shopify apps**, **API integrations**, **MCP / AI agents**, **Blockchain**, and **AI/ML**.
 
 ## 📍 Contact Information:
 
@@ -14,15 +14,34 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ## 🤓 Current Interests:
 
-- **👀 Interested in:** AI agent development, Blockchain Web3 development and ecommerce solutions
-- **🌱 Currently building:** ARTIFY PHOTO
-- **💞️ Looking to collaborate on:** AI projects & Web3 projects
+- **👀 Interested in:** AI agent development, Shopify / ecommerce, Blockchain Web3, and MCP tooling
+- **🌱 Currently building:** ARTIFY, PRICEY, PLOTT, and Blackbook Protocol
+- **💞️ Looking to collaborate on:** AI projects, Shopify apps & Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
 
+### **Blackbook Protocol**
+*July 2026 - present*  
+- Shopify storefront plus purchaser-gated Protocol Advisor MCP for UK founders (Vault / trust, HMRC TRS, 95/5 equity, Companies House PSC).
+- Buyers connect Claude, ChatGPT, or Cursor after verifying a book order (Shopify Admin + email OTP).
+- Cited book search, module playbooks, FAQ knowledge base, and optional assisted filing on official portals (confirm-on-submit; educational guidance, not legal or tax advice).
+- Horizon theme (monochrome brand system), Klaviyo campaign and flow tooling, Vercel-hosted MCP (Streamable HTTP + SSE), Neon, Resend.
+- 🔗[Blackbook Protocol](https://blackbookprotocol.co.uk)
+- 🔗[Protocol MCP](https://theblackbook.pro)
+
+### **PRICEY (Shopify App)**
+*May 2026 - present*  
+- Standalone Shopify app in the Artify ecosystem that recommends catalog prices from Instagram follower demographics and purchasing power.
+- Merchants sync tagged products, map them to artists, preview AI prices, and apply them to Shopify variants via Admin API.
+- Audience base prices plus print / canvas / original and size multipliers at apply time.
+- Native Shopify UCP catalog: PRICEY-managed prices flow into agent-commerce readiness without a separate checkout layer.
+- Paid-order webhooks power an ROI dashboard (attributed revenue, price impact vs previous Shopify price, estimated margin).
+- Shopify App Home (React Router + Polaris + App Bridge), Prisma, Gemini / Gemma, Instagram Business Login + Insights, World Bank GNI for purchasing power.
+- 🔗[PRICEY](https://pricey.artify.photo)
+
 ### **PLOTT**
-*Aprol 2026 - present*  
+*April 2026 - present*  
 - A multi-tenant SaaS for UK construction firms. Turns open planning applications into signed contracts via a 3D map, applicant enrichment, branded letter generation and saved-search email digests.
 - Next.js 16 (App Router, React 19, Server Components)
 - Prisma 6 + Neon Postgres
@@ -38,24 +57,22 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ### **ARTIFY (Shopify App)**
 *October 2025 - present*  
-- Built Artify Photo using React. Originally built in 2019 on Laravel. Check out the TikTok and Instagram links on the website.
-- Rebuilt Shopify
-- Artify pays artists each time their style is used to re-imagine customer photos
-- Customers can then choose a frame and print
-- The app includes 3D augmented reality for a imersive shopping experience
-- Payouts are distributed via Stripe or Shopify Collective
-- Worldwide fulfillment
-- Customers can mint a FREE NFT as proof of ownership
+- Shopify app that turns customer photos into AI-generated art, then sells framed prints worldwide.
+- Originally built in 2019 on Laravel; rebuilt as an embedded Shopify Remix / React Router app with a theme App Proxy storefront.
+- Dual-stream Gemini pipeline: fast preview, then 300 DPI print files on paid orders, fulfilled via Prodigi.
+- 3D room visualizer (Three.js) for an immersive shopping experience; artist style marketplace with commission on each use.
+- Artist onboarding (Instagram), Stripe / Shopify Collective payouts, credits, cart pairing, and native Shopify UCP agent-commerce handoff.
+- Customers can mint a free NFT as proof of ownership.
 - 🔗[Artify Photo](https://artify.photo)
 - 🔗[Artify App](https://apps.shopify.com/artify-1)
 
 ### **KOYNFX**
 *August - September 2025*  
-- Fully Agentic trading workspace for modern traders
-- Built using REACT frontend and Python API
-- KOYNFX seamlessesly integrates with TradeLocker API 
-- Provides realtime in-depth market analysis for over 100 tradeable instruments including: Stocks, Crypto, Commodities and Indicies
-- Trade automonmouly and allow the Agent to manage your account
+- Fully agentic trading workspace for modern traders
+- Built using React frontend and Python API
+- KOYNFX seamlessly integrates with TradeLocker API
+- Provides realtime in-depth market analysis for over 100 tradeable instruments including: Stocks, Crypto, Commodities and Indices
+- Trade autonomously and allow the Agent to manage your account
 - 🔗[KOYN FX](https://koynfx.com)
 
 ### **Backend Developer - SuperPayments.com**
@@ -70,12 +87,13 @@ I'm experinced in **PHP**, **JavaScript**, **Python**, and frameworks such as: *
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** PHP, JavaScript, Java, SQL
-- **Frameworks:** Magento 1 & 2, Laravel, ReactJS, NodeJS, Web3js, Solana, Metaplex, Moralis
+- **Languages:** TypeScript, JavaScript, PHP, Python, SQL
+- **Frameworks:** React, Next.js, Remix / React Router, Node.js, Shopify (Polaris, App Bridge, Functions), Magento 1 & 2, Laravel, Web3js, Solana, Metaplex, Moralis
+- **AI / Agents:** Gemini, Gemma, MCP, Vercel AI SDK
 - **Blockchain:** Solana, Ethereum
-- **Databases:** MySQL, MongoDB, Firestore
-- **DevOps:** GIT, CI/CD, Docker
-- **Fullstack** | Web3 | AI/ML| Cloud Administration | eCommerce
+- **Databases:** PostgreSQL (Neon), Prisma, MySQL, MongoDB, Firestore
+- **DevOps:** GIT, CI/CD, Docker, Vercel
+- **Fullstack** | Web3 | AI/ML | Shopify | Cloud Administration | eCommerce
 
 ## 🎓 Education
 
@@ -135,5 +153,4 @@ And countless other startups, SME's and enterprise level builds that I've helped
 *Let's build something amazing together!*
 
 - [📄 Download the PDF version of this README](https://github.com/Daniel-Rafique/Daniel-Rafique/blob/main/README.pdf)
-
 
