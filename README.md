@@ -61,7 +61,7 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 *October 2025 - present*  
 - Shopify app that turns customer photos into AI-generated art, then sells framed prints worldwide.
 - Originally built in 2019 on Laravel; rebuilt as an embedded Shopify Remix / React Router app with a theme App Proxy storefront.
-- Dual-stream Gemini pipeline: fast preview, then 300 DPI print files on paid orders, fulfilled via Prodigi.
+- Dual-stream pipeline: fast preview, then 300 DPI print files on paid orders, fulfilled via worldwide.
 - 3D room visualizer (Three.js) for an immersive shopping experience; artist style marketplace with commission on each use.
 - Artist onboarding (Instagram), Stripe / Shopify Collective payouts, credits, cart pairing, and native Shopify UCP agent-commerce handoff.
 - Customers can mint a free NFT as proof of ownership.
