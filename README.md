@@ -9,7 +9,7 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 ## 📍 Contact Information:
 
 - **🌍 Location:** South West London, UK
-- **📧 Email:** [koynlabs@gmail.com](mailto:hi@koynlabs.com)
+- **📧 Email:** [hi@koynlabs.com](mailto:hi@koynlabs.com)
 - **🌐 X:** [X](https://x.com/koynlabs)
 
 ## 🤓 Current Interests:
