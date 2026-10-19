@@ -23,22 +23,21 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 
 ### **LABS (MCP Launchpad)**
 *September 2026 - present*  
-- Public MCP launchpad for pump.fun and StonkFun. Claude, ChatGPT, or Grok builds the launch and returns a link where the wallet signs.
-- Every create, buy, trade, and perp is unsigned. The user's wallet holds the key. labs does not.
-- Create plus opening buys land together on Jito, or none of it does. No launch fee and no subscription.
-- Jupiter routes market swaps and limit, stop, take-profit/stop, or DCA orders. SOL, ETH, and BTC perps return a signing link.
-- Disclosed two-sided maker on one pump.fun mint from one wallet. The quoting key is generated in the browser, capped, and expires.
-- X posting stays off until that account is connected. A draft (text, image, or MP4) is published only after the owner confirms the preview.
-- Vercel, Streamable HTTP, pump.fun SDK, Raydium LaunchLab, Jito, Jupiter, Pinata.
-- 🔗[labs](https://labs.levercoin.lol)
-- 🔗[MCP](https://labs.levercoin.lol/mcp)
+- MCP server that lets Claude, ChatGPT, Grok or Cursor launch Solana tokens on pump.fun or StonkFun and announce them on X, all from one conversation.
+- Builds the metadata, create transaction and opening buys from up to three user wallets in one atomic Jito bundle, then hands back a signing link. It never touches private keys, and there's no launch fee.
+- Trading tools: Jupiter-routed market, limit, stop, take-profit and DCA orders, SOL / ETH / BTC perps, a disclosed two-sided maker, and live pump.fun and StonkFun trading pairs.
+- X integration: per-user OAuth 2.0 (PKCE) connect with a personal API key, AES-GCM sealed tokens, chunked image and MP4 uploads, prepare-then-confirm posting, and a signed Account Activity webhook for capped mention replies.
+- Next.js on Vercel (Streamable HTTP MCP), Upstash Redis, Solana web3.js, Jito, Jupiter, X API v2.
+- 🔗[LABS](https://labs.levercoin.lol)
+- 🔗[GitHub](https://github.com/koynlabs/labs-mcp)
 
-### **LEVERCOIN**
+### **LEVERCOIN ($LEVERCOIN)**
 *September 2026 - present*  
-- Solana memecoin launched on StonkFun. Trade fees are converted into xSOL and sent to holders automatically.
-- The official site is a terminal with its own trading desk. Swaps are signed in the holder's wallet and routed by Jupiter.
-- Mint `GJx6KxLzEeB5cQh7Bmo85M2N6s6bVM63VEUjT2tfe6mg`.
-- 🔗[LEVERCOIN](https://levercoin.lol)
+- Solana memecoin launched on StonkFun, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
+- Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
+- DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
+- Next.js on Vercel, Solana, Jupiter.
+- 🔗[Levercoin](https://levercoin.lol)
 - 🔗[Trade](https://levercoin.lol/trade)
 
 ### **Blackbook Protocol (Author & Publisher)**
