@@ -15,11 +15,31 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 ## 🤓 Current Interests:
 
 - **👀 Interested in:** AI agent development, Shopify / ecommerce, Blockchain Web3, and MCP tooling
-- **🌱 Currently building:** ARTIFY, PRICEY, PLOTT, and Blackbook Protocol (author / publisher)
+- **🌱 Currently building:** LABS, LEVERCOIN, ARTIFY, PRICEY, PLOTT, and Blackbook Protocol (author / publisher)
 - **💞️ Looking to collaborate on:** AI projects, Shopify apps & Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
+
+### **LABS (MCP Launchpad)**
+*September 2026 - present*  
+- Public MCP launchpad for pump.fun and StonkFun. Claude, ChatGPT, or Grok builds the launch and returns a link where the wallet signs.
+- Every create, buy, trade, and perp is unsigned. The user's wallet holds the key. labs does not.
+- Create plus opening buys land together on Jito, or none of it does. No launch fee and no subscription.
+- Jupiter routes market swaps and limit, stop, take-profit/stop, or DCA orders. SOL, ETH, and BTC perps return a signing link.
+- Disclosed two-sided maker on one pump.fun mint from one wallet. The quoting key is generated in the browser, capped, and expires.
+- X posting stays off until that account is connected. A draft (text, image, or MP4) is published only after the owner confirms the preview.
+- Vercel, Streamable HTTP, pump.fun SDK, Raydium LaunchLab, Jito, Jupiter, Pinata.
+- 🔗[labs](https://labs.levercoin.lol)
+- 🔗[MCP](https://labs.levercoin.lol/mcp)
+
+### **LEVERCOIN**
+*September 2026 - present*  
+- Solana memecoin launched on StonkFun. Trade fees are converted into xSOL and sent to holders automatically.
+- The official site is a terminal with its own trading desk. Swaps are signed in the holder's wallet and routed by Jupiter.
+- Mint `GJx6KxLzEeB5cQh7Bmo85M2N6s6bVM63VEUjT2tfe6mg`.
+- 🔗[LEVERCOIN](https://levercoin.lol)
+- 🔗[Trade](https://levercoin.lol/trade)
 
 ### **Blackbook Protocol (Author & Publisher)**
 *July 2026 - present*  
