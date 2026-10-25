@@ -27,7 +27,7 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 - Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
 - DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
 - Next.js on Vercel, Solana, Jupiter.
-- 🔗[LOTN](https://koyn.trade)
+- 🔗[KOYN](https://koyn.trade)
 - 🔗[Trade](https://kotn.trade/)
 
 ### **LABS (MCP Launchpad)**
