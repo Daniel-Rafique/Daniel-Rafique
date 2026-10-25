@@ -21,6 +21,15 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 
 ## 💼 Professional Experience:
 
+### **KOYN ($KOYN)**
+*September 2026 - present*  
+- Solana de launched, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
+- Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
+- DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
+- Next.js on Vercel, Solana, Jupiter.
+- 🔗[LOTN](https://koyn.trade)
+- 🔗[Trade](https://kotn.trade/)
+
 ### **LABS (MCP Launchpad)**
 *September 2026 - present*  
 - MCP server that lets Claude, ChatGPT, Grok or Cursor launch Solana tokens on pump.fun or StonkFun and announce them on X, all from one conversation.
@@ -30,15 +39,6 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 - Next.js on Vercel (Streamable HTTP MCP), Upstash Redis, Solana web3.js, Jito, Jupiter, X API v2.
 - 🔗[LABS](https://labs.levercoin.lol)
 - 🔗[GitHub](https://github.com/koynlabs/labs-mcp)
-
-### **LEVERCOIN ($LEVERCOIN)**
-*September 2026 - present*  
-- Solana memecoin launched on StonkFun, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
-- Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
-- DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
-- Next.js on Vercel, Solana, Jupiter.
-- 🔗[Levercoin](https://levercoin.lol)
-- 🔗[Trade](https://levercoin.lol/trade)
 
 ### **Blackbook Protocol (Author & Publisher)**
 *July 2026 - present*  
