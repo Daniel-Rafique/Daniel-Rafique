@@ -23,7 +23,7 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 
 ### **KOYN ($KOYN)**
 *September 2026 - present*  
-- Solana de launched, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
+- Solana Dex launched, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
 - Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
 - DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
 - Next.js on Vercel, Solana, Jupiter.
