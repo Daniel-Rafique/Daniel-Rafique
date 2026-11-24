@@ -4,41 +4,22 @@
 
 I am a **Software Developer** and **published author** based in London, specializing in AI technologies and solutions. With over 20 years of experience in web development, my journey began with HTML and CSS in 2003, quickly advancing to PHP and MySQL by 2006. Over the years, I have evolved from building websites to developing sophisticated software solutions, culminating in my current focus on the AI, Web3 and ecommerce space. I authored and published **Blackbook Protocol**, a UK founder asset-architecture book (hardback, Kindle, audio, eBook and templates).
 
-I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and frameworks such as: **Docker**, **Web3JS**, **React**, **Next.js**, **Remix / React Router**, and **Node.js**. My current focus areas include **Shopify apps**, **API integrations**, **MCP / AI agents**, **Blockchain**, and **AI/ML**.
+I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and frameworks such as: **Docker**, **web3.js**, **React**, **Next.js**, **Remix / React Router**, and **Node.js**. My current focus areas include **Shopify apps**, **API integrations**, **MCP / AI agents**, **Blockchain**, and **AI/ML**.
 
 ## 📍 Contact Information:
 
 - **🌍 Location:** South West London, UK
-- **📧 Email:** [hi@koynlabs.com](mailto:hi@koynlabs.com)
+- **📧 Email:** [koynlabs@gmail.com](mailto:koynlabs@gmail.com)
 - **🌐 X:** [X](https://x.com/koynlabs)
 
 ## 🤓 Current Interests:
 
 - **👀 Interested in:** AI agent development, Shopify / ecommerce, Blockchain Web3, and MCP tooling
-- **🌱 Currently building:** LABS, LEVERCOIN, ARTIFY, PRICEY, PLOTT, and Blackbook Protocol (author / publisher)
+- **🌱 Currently building:** ARTIFY, PRICEY, PLOTT, and Blackbook Protocol (author / publisher)
 - **💞️ Looking to collaborate on:** AI projects, Shopify apps & Web3 projects
 - **📫 Reach me on:** [Telegram](https://t.me/KoynDev)
 
 ## 💼 Professional Experience:
-
-### **KOYN ($KOYN)**
-*September 2026 - present*  
-- Solana Dex launched, with trading fees converted to xSOL (Hylo's leveraged SOL token) and sent to holders automatically.
-- Official site is an interactive "truth-terminal" (type help, buy, trade) with its own trading desk.
-- DEX screener for StonkFun, pump.fun and wider Solana markets, with source, curve and paired-with filters, live prices and Jupiter-routed swaps from the user's own wallet.
-- Next.js on Vercel, Solana, Jupiter.
-- 🔗[KOYN](https://koyn.trade)
-- 🔗[Trade](https://kotn.trade/)
-
-### **LABS (MCP Launchpad)**
-*September 2026 - present*  
-- MCP server that lets Claude, ChatGPT, Grok or Cursor launch Solana tokens on pump.fun or StonkFun and announce them on X, all from one conversation.
-- Builds the metadata, create transaction and opening buys from up to three user wallets in one atomic Jito bundle, then hands back a signing link. It never touches private keys, and there's no launch fee.
-- Trading tools: Jupiter-routed market, limit, stop, take-profit and DCA orders, SOL / ETH / BTC perps, a disclosed two-sided maker, and live pump.fun and StonkFun trading pairs.
-- X integration: per-user OAuth 2.0 (PKCE) connect with a personal API key, AES-GCM sealed tokens, chunked image and MP4 uploads, prepare-then-confirm posting, and a signed Account Activity webhook for capped mention replies.
-- Next.js on Vercel (Streamable HTTP MCP), Upstash Redis, Solana web3.js, Jito, Jupiter, X API v2.
-- 🔗[LABS](https://labs.levercoin.lol)
-- 🔗[GitHub](https://github.com/koynlabs/labs-mcp)
 
 ### **Blackbook Protocol (Author & Publisher)**
 *July 2026 - present*  
@@ -80,7 +61,7 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 *October 2025 - present*  
 - Shopify app that turns customer photos into AI-generated art, then sells framed prints worldwide.
 - Originally built in 2019 on Laravel; rebuilt as an embedded Shopify Remix / React Router app with a theme App Proxy storefront.
-- Dual-stream pipeline: fast preview, then 300 DPI print files on paid orders, fulfilled via worldwide.
+- Dual-stream Gemini pipeline: fast preview, then 300 DPI print files on paid orders, fulfilled via Prodigi.
 - 3D room visualizer (Three.js) for an immersive shopping experience; artist style marketplace with commission on each use.
 - Artist onboarding (Instagram), Stripe / Shopify Collective payouts, credits, cart pairing, and native Shopify UCP agent-commerce handoff.
 - Customers can mint a free NFT as proof of ownership.
@@ -109,11 +90,11 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 ## 🛠️ Technologies & Tools
 
 - **Languages:** TypeScript, JavaScript, PHP, Python, SQL
-- **Frameworks:** React, Next.js, Remix / React Router, Node.js, Shopify (Polaris, App Bridge, Functions), Magento 1 & 2, Laravel, Web3js, Solana, Metaplex, Moralis
+- **Frameworks:** React, Next.js, Remix / React Router, Node.js, Shopify (Polaris, App Bridge, Functions), Magento 1 & 2, Laravel, Adobe AEM, Zend Client, web3.js, Solana, Metaplex, Moralis
 - **AI / Agents:** Gemini, Gemma, MCP, Vercel AI SDK
 - **Blockchain:** Solana, Ethereum
 - **Databases:** PostgreSQL (Neon), Prisma, MySQL, MongoDB, Firestore
-- **DevOps:** GIT, CI/CD, Docker, Vercel
+- **DevOps:** Git, CI/CD, Docker, Vercel
 - **Fullstack** | Web3 | AI/ML | Shopify | Cloud Administration | eCommerce
 
 ## 🎓 Education
@@ -125,38 +106,30 @@ I'm experienced in **PHP**, **JavaScript**, **TypeScript**, **Python**, and fram
 ### **Backend Developer - Vision Direct**
 *January 2021 - May 2021*
 - Backend Magento development, including feature development, bug fixes, and upgrades for Magento 1.
-- **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS, Microservices, NodeJS, REST
 
 ### **Kurt Geiger Migration**
 *Aug - Nov 2019*
-- Led a successful migration from Magento 1 to Magento 2, ensuring seamless transition and improved performance.  
-- **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS, Microservices, NodeJS, REST
+- Led a successful migration from Magento 1 to Magento 2, ensuring seamless transition and improved performance.
 
 ### **Pay360 Extension Rebuild**
 *May - Jun 2019*
-- Rewrote the Magento 2 extension to work with the latest version, improving functionality and performance.  
-- **Technologies used:** GIT, PHP7.2, MySQL, XML & JSON, JavaScript - KnockoutJS
+- Rewrote the Magento 2 extension to work with the latest version, improving functionality and performance.
 
 ### **IBM - Audi**
-*March 2018 - June 2018*  
-- M2 Transition project through to delivery for Audi.co.uk.  
-- **Technologies used:** PHP7.0, MySQL, XML & JSON, JavaScript - KnockoutJS, Microservices, Adobe AEM
+*March 2018 - June 2018*
+- M2 Transition project through to delivery for Audi.co.uk.
 
 ### **Condenast for Style.com**
-*July 2016 - December 2016*  
-- Magento Development contract for Style.com M1 Marketplace Extension refactor and M2 Marketplace Extension development.  
-- **Technologies used:** GIT, PHP7.0, MySQL, XML & JSON, Zend Client
+*July 2016 - December 2016*
+- Magento Development contract for Style.com M1 Marketplace Extension refactor and M2 Marketplace Extension development.
 
 ### **Klarna AB (UK Office)**
-*October 2015 - June 2016*  
-- Magento Development contract for Klarna AB. Merchant integration and customization of the official Klarna Checkout Extension.  
-- **Technologies used:** GIT, PHP5.6 - 7.0, MySQL, XML & JSON
-
+*October 2015 - June 2016*
+- Magento Development contract for Klarna AB. Merchant integration and customization of the official Klarna Checkout Extension.
 
 ### **Starbucks**
-*February 2014 - March 2014*  
-- Frontend Development for Starbucks B2B portal website.  
-- **Technologies used:** GIT, PHP5.6, MySQL, XML & JSON, Laravel
+*February 2014 - March 2014*
+- Frontend Development for Starbucks B2B portal website.
 
 And countless other startups, SME's and enterprise level builds that I've helped to bugfix and or develop from scratch.
 
